@@ -1,4 +1,4 @@
-package net.quartne.vespera
+package net.quartzne.vespera
 
 import net.minecraft.client.Minecraft
 import net.minecraft.core.registries.Registries
