@@ -1,7 +1,4 @@
-# SLP-example
-Template repository of Minecraft mod with Scala
+# Vespera mod repository
 
-1. Clone this repository.
-2. Add scala code to `src/main/scala`.
-3. Move to the directory and open shell.
-4. run `./gradlew build` to get mod jar.
+non-code resource license CC-BY-SA 4.0
+code license Apache License 2.0
